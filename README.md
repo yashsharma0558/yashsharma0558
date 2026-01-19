@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there, I'm Yash Sharma! 👋
-🚀 Android Developer | Performance Engineer | AI Enthusiast
+🚀 Android Developer | AI Enthusiast🤖
 
 I engineer high-performance mobile applications and SDKs. Currently working at **AdPushup**, focusing on system optimization, memory management, and clean architecture.
 
