@@ -1,6 +1,13 @@
 # 💫 About Me:
-The ever-evolving landscape of Android development keeps me constantly on my toes.  Fueled by a passion for crafting exceptional user experiences, I, Yash Sharma, an Engineering Student, delve into the world of Kotlin, Java, and Python to build innovative and robust applications.<br><br>Whether it's leveraging the magic of Firebase for seamless integrations or utilizing the power of REST APIs to connect the dots, I thrive on tackling challenges head-on.  MVVM architecture serves as my trusty companion, ensuring clean and maintainable code that can weather any storm.<br><br>This GitHub profile is more than just a digital resume; it's a portal into my world of code. Here, you'll find my creations on display, testaments to my problem-solving skills and passion for building beautiful, functional applications.  Feel free to explore my projects, delve into the code, and most importantly, let's connect! I'm always eager to chat about Android development, collaborate on new ideas, or simply geek out over the latest advancements.
+Hi there, I'm Yash Sharma! 👋
+🚀 Android Developer | Performance Engineer | AI Enthusiast
 
+I engineer high-performance mobile applications and SDKs. Currently working at **AdPushup**, focusing on system optimization, memory management, and clean architecture.
+
+- 🔭 **I’m currently working on:** Optimizing Android SDKs for sub-200ms latency and crash-free stability.
+- 🌱 **I’m currently learning:** AI Engineering and Machine Learning integration on mobile.
+- 👨‍💻 **Tech Stack:** Kotlin, Java, Jetpack Compose, Coroutines, Hilt, Room.
+- ⚡ **Fun fact:** I successfully reduced an SDK's memory footprint by 20% to eliminate OOM errors!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-sharma-b802a2251) 
